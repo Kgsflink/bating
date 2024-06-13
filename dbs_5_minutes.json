@@ -892,5 +892,54 @@
       "red",
       "violet"
     ]
+  },
+  {
+    "round": "20240613030200",
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": "20240613030201",
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240613030202",
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240613030203",
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240613030204",
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240613030205",
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
   }
 ]
