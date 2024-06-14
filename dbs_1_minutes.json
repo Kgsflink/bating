@@ -229,5 +229,82 @@
         "bigOrSmall": "big"
       }
     ]
+  },
+  {
+    "issueNumber": "20240615010105",
+    "startTime": "2024-06-15 01:44:00",
+    "endTime": "2024-06-15 01:45:00",
+    "results": [
+      {
+        "issueNumber": "20240615010104",
+        "number": "1",
+        "colour": "green",
+        "premium": "47641",
+        "bigOrSmall": "small"
+      },
+      {
+        "issueNumber": "20240615010103",
+        "number": "0",
+        "colour": "red,violet",
+        "premium": "53020",
+        "bigOrSmall": "small"
+      },
+      {
+        "issueNumber": "20240615010102",
+        "number": "3",
+        "colour": "green",
+        "premium": "11453",
+        "bigOrSmall": "small"
+      },
+      {
+        "issueNumber": "20240615010101",
+        "number": "8",
+        "colour": "red",
+        "premium": "91058",
+        "bigOrSmall": "big"
+      },
+      {
+        "issueNumber": "20240615010100",
+        "number": "2",
+        "colour": "red",
+        "premium": "30582",
+        "bigOrSmall": "small"
+      },
+      {
+        "issueNumber": "20240615010099",
+        "number": "2",
+        "colour": "red",
+        "premium": "99542",
+        "bigOrSmall": "small"
+      },
+      {
+        "issueNumber": "20240615010098",
+        "number": "9",
+        "colour": "green",
+        "premium": "45449",
+        "bigOrSmall": "big"
+      },
+      {
+        "issueNumber": "20240615010097",
+        "number": "0",
+        "colour": "red,violet",
+        "premium": "44470",
+        "bigOrSmall": "small"
+      },
+      {
+        "issueNumber": "20240615010096",
+        "number": "0",
+        "colour": "red,violet",
+        "premium": "28090",
+        "bigOrSmall": "small"
+      },
+      {
+        "issueNumber": "20240615010095",
+        "number": "6",
+        "colour": "red",
+        "premium": "61546",
+        "bigOrSmall": "big"
+      }
+    ]
   }
 ]
