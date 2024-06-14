@@ -1,1 +1,72 @@
-
+[
+  {
+    "issueNumber": "20240615010030",
+    "number": "8",
+    "colour": "red",
+    "premium": "47258",
+    "bigOrSmall": "big"
+  },
+  {
+    "issueNumber": "20240615010029",
+    "number": "4",
+    "colour": "red",
+    "premium": "53044",
+    "bigOrSmall": "small"
+  },
+  {
+    "issueNumber": "20240615010028",
+    "number": "9",
+    "colour": "green",
+    "premium": "57359",
+    "bigOrSmall": "big"
+  },
+  {
+    "issueNumber": "20240615010027",
+    "number": "1",
+    "colour": "green",
+    "premium": "78611",
+    "bigOrSmall": "small"
+  },
+  {
+    "issueNumber": "20240615010026",
+    "number": "1",
+    "colour": "green",
+    "premium": "88881",
+    "bigOrSmall": "small"
+  },
+  {
+    "issueNumber": "20240615010025",
+    "number": "7",
+    "colour": "green",
+    "premium": "93387",
+    "bigOrSmall": "big"
+  },
+  {
+    "issueNumber": "20240615010024",
+    "number": "0",
+    "colour": "red,violet",
+    "premium": "34440",
+    "bigOrSmall": "small"
+  },
+  {
+    "issueNumber": "20240615010023",
+    "number": "3",
+    "colour": "green",
+    "premium": "82703",
+    "bigOrSmall": "small"
+  },
+  {
+    "issueNumber": "20240615010022",
+    "number": "2",
+    "colour": "red",
+    "premium": "66412",
+    "bigOrSmall": "small"
+  },
+  {
+    "issueNumber": "20240615010021",
+    "number": "3",
+    "colour": "green",
+    "premium": "55553",
+    "bigOrSmall": "small"
+  }
+]
