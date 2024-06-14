@@ -1,8 +1,22 @@
 {
-  "issueNumber": "20240615010050",
-  "startTime": "2024-06-15 00:49:00",
-  "endTime": "2024-06-15 00:50:00",
+  "issueNumber": "20240615010051",
+  "startTime": "2024-06-15 00:50:00",
+  "endTime": "2024-06-15 00:51:00",
   "results": [
+    {
+      "issueNumber": "20240615010051",
+      "number": "9",
+      "colour": "green",
+      "premium": "64669",
+      "bigOrSmall": "big"
+    },
+    {
+      "issueNumber": "20240615010050",
+      "number": "8",
+      "colour": "red",
+      "premium": "95928",
+      "bigOrSmall": "big"
+    },
     {
       "issueNumber": "20240615010049",
       "number": "8",
@@ -57,20 +71,6 @@
       "number": "7",
       "colour": "green",
       "premium": "21247",
-      "bigOrSmall": "big"
-    },
-    {
-      "issueNumber": "20240615010041",
-      "number": "2",
-      "colour": "red",
-      "premium": "31432",
-      "bigOrSmall": "small"
-    },
-    {
-      "issueNumber": "20240615010040",
-      "number": "6",
-      "colour": "red",
-      "premium": "47086",
       "bigOrSmall": "big"
     }
   ]
