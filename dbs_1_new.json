@@ -1,5 +1,12 @@
 [
   {
+    "issueNumber": "20240615010031",
+    "number": "8",
+    "colour": "red",
+    "premium": "61188",
+    "bigOrSmall": "big"
+  },
+  {
     "issueNumber": "20240615010030",
     "number": "8",
     "colour": "red",
@@ -60,13 +67,6 @@
     "number": "2",
     "colour": "red",
     "premium": "66412",
-    "bigOrSmall": "small"
-  },
-  {
-    "issueNumber": "20240615010021",
-    "number": "3",
-    "colour": "green",
-    "premium": "55553",
     "bigOrSmall": "small"
   }
 ]
