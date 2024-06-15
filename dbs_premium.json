@@ -1,8 +1,16 @@
 {
-  "issueNumber": "20240615011161",
-  "startTime": "2024-06-15 19:20:00",
-  "endTime": "2024-06-15 19:21:00",
+  "issueNumber": "20240615011163",
+  "startTime": "2024-06-15 19:22:00",
+  "endTime": "2024-06-15 19:23:00",
   "results": [
+    {
+      "issueNumber": "20240615011162",
+      "premium": "56129"
+    },
+    {
+      "issueNumber": "20240615011161",
+      "premium": "50468"
+    },
     {
       "issueNumber": "20240615011160",
       "premium": "81925"
@@ -34,14 +42,6 @@
     {
       "issueNumber": "20240615011153",
       "premium": "14370"
-    },
-    {
-      "issueNumber": "20240615011152",
-      "premium": "77870"
-    },
-    {
-      "issueNumber": "20240615011151",
-      "premium": "49294"
     }
   ]
 }
