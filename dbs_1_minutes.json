@@ -1,8 +1,15 @@
 {
-  "issueNumber": "20240615011096",
-  "startTime": "2024-06-15 18:15:00",
-  "endTime": "2024-06-15 18:16:00",
+  "issueNumber": "20240615011097",
+  "startTime": "2024-06-15 18:16:00",
+  "endTime": "2024-06-15 18:17:00",
   "results": [
+    {
+      "issueNumber": "20240615011096",
+      "number": "3",
+      "colour": "green",
+      "premium": "78413",
+      "bigOrSmall": "small"
+    },
     {
       "issueNumber": "20240615011095",
       "number": "7",
@@ -65,13 +72,6 @@
       "colour": "red",
       "premium": "84306",
       "bigOrSmall": "big"
-    },
-    {
-      "issueNumber": "20240615011086",
-      "number": "0",
-      "colour": "red,violet",
-      "premium": "48120",
-      "bigOrSmall": "small"
     }
   ]
 }
