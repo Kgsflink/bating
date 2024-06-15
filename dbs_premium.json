@@ -1,1 +1,47 @@
-
+{
+  "issueNumber": "20240615011132",
+  "startTime": "2024-06-15 18:51:00",
+  "endTime": "2024-06-15 18:52:00",
+  "results": [
+    {
+      "issueNumber": "20240615011131",
+      "premium": "17473"
+    },
+    {
+      "issueNumber": "20240615011130",
+      "premium": "30818"
+    },
+    {
+      "issueNumber": "20240615011129",
+      "premium": "25331"
+    },
+    {
+      "issueNumber": "20240615011128",
+      "premium": "19973"
+    },
+    {
+      "issueNumber": "20240615011127",
+      "premium": "14421"
+    },
+    {
+      "issueNumber": "20240615011126",
+      "premium": "75649"
+    },
+    {
+      "issueNumber": "20240615011125",
+      "premium": "33383"
+    },
+    {
+      "issueNumber": "20240615011124",
+      "premium": "52737"
+    },
+    {
+      "issueNumber": "20240615011123",
+      "premium": "86690"
+    },
+    {
+      "issueNumber": "20240615011122",
+      "premium": "94782"
+    }
+  ]
+}
