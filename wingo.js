@@ -18,7 +18,7 @@
 
     // Function to handle and log fetch request and response
     const handleFetch = (response, args) => {
-        if (interceptEnabled && response.url.includes("tirangaapi.com/api/webapi/GetGameIssue")) {
+        if (interceptEnabled && (response.url.includes("tirangaapi.com/api/webapi/GetGameIssue") || response.url.includes("tirangaapi.com/api/webapi/GetNoaverageEmerdList"))) {
             console.log('Intercepted fetch request to:', response.url);
             console.log('Request headers:', args[1]?.headers);
             console.log('Request payload:', args[1]?.body);
@@ -52,7 +52,7 @@
     const originalXhrSend = XMLHttpRequest.prototype.send;
     XMLHttpRequest.prototype.send = function(body) {
         this.addEventListener('load', function() {
-            if (interceptEnabled && this._url.includes("tirangaapi.com/api/webapi/GetGameIssue")) {
+            if (interceptEnabled && (this._url.includes("tirangaapi.com/api/webapi/GetGameIssue") || this._url.includes("tirangaapi.com/api/webapi/GetNoaverageEmerdList"))) {
                 console.log('Intercepted XHR request to:', this._url);
                 console.log('Request payload:', body);
                 try {
