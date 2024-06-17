@@ -1,8 +1,818 @@
 [
   {
+    "round": "20240617010666",
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010667",
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010668",
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010669",
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010670",
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010671",
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010672",
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010673",
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010674",
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010675",
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010676",
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010677",
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010678",
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010679",
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010680",
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": "20240617010681",
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010682",
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010683",
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010684",
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010685",
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": "20240617010686",
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": "20240617010687",
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010688",
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010689",
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010690",
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010691",
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010692",
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010693",
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010694",
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010695",
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010696",
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": "20240617010697",
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010698",
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010699",
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010700",
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010701",
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010702",
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010703",
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010704",
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010705",
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010706",
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010707",
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": "20240617010708",
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010709",
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010710",
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010711",
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010712",
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010713",
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010714",
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010715",
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
     "round": "20240617010716",
     "num": "3",
     "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010717",
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": "20240617010718",
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010719",
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010720",
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010721",
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010722",
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010723",
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": "20240617010724",
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010725",
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010726",
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010727",
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": "20240617010728",
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": "20240617010729",
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": "20240617010730",
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010731",
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010732",
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010733",
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010734",
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010735",
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010736",
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010737",
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010738",
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010739",
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010740",
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010741",
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010742",
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010743",
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": "20240617010744",
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010745",
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": "20240617010746",
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": "20240617010747",
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010748",
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010749",
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010750",
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010751",
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010752",
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": "20240617010753",
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010754",
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010755",
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010756",
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": "20240617010757",
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": "20240617010758",
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": "20240617010759",
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010760",
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010761",
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010762",
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010763",
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010764",
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010765",
+    "num": "9",
+    "size": "Big",
     "origins": [
       "green"
     ]
