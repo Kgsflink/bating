@@ -87,5 +87,86 @@
     "origins": [
       "red"
     ]
+  },
+  {
+    "round": "20240617010704",
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010705",
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010706",
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010707",
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": "20240617010708",
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010709",
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": "20240617010710",
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010711",
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010712",
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": "20240617010713",
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
   }
 ]
