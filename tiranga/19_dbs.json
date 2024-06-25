@@ -323,5 +323,85 @@
       "red",
       "violet"
     ]
+  },
+  {
+    "round": 20240625011184,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240625011183,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240625011182,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240625011181,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240625011180,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240625011179,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240625011178,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240625011177,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240625011176,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240625011175,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
   }
 ]
