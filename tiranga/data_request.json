@@ -17,5 +17,24 @@
       "msgCode": 0,
       "serviceNowTime": "2024-06-27 08:16:01"
     }
+  },
+  {
+    "request": {
+      "url": "https://tirangaapi.com/api/webapi/GetGameIssue",
+      "body": "{\"typeId\":1,\"language\":0,\"random\":\"fa72606717e14ef486b0489161e2db86\",\"signature\":\"E935AE63A708E9E3FC89563920D52152\",\"timestamp\":1719456541}"
+    },
+    "response": {
+      "data": {
+        "issueNumber": "20240627010500",
+        "startTime": "2024-06-27 08:19:00",
+        "endTime": "2024-06-27 08:20:00",
+        "serviceTime": "2024-06-27 08:19:03",
+        "intervalM": 1
+      },
+      "code": 0,
+      "msg": "Succeed",
+      "msgCode": 0,
+      "serviceNowTime": "2024-06-27 08:19:03"
+    }
   }
 ]
