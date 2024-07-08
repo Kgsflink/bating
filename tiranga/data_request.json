@@ -74,5 +74,105 @@
       "msgCode": 0,
       "serviceNowTime": "2024-07-08 18:56:01"
     }
-  }
+  },
+  [
+    {
+      "request": {
+        "url": "https://tirangaapi.com/api/webapi/GetGameIssue",
+        "body": "{\"typeId\":1,\"language\":0,\"random\":\"5a28ec6e0c2142eeaea3133672dd0a4a\",\"signature\":\"8D638DBB407486C8C943C5EA54E18FC6\",\"timestamp\":1720445160}"
+      },
+      "response": {
+        "data": {
+          "issueNumber": "20240708011137",
+          "startTime": "2024-07-08 18:56:00",
+          "endTime": "2024-07-08 18:57:00",
+          "serviceTime": "2024-07-08 18:56:01",
+          "intervalM": 1
+        },
+        "code": 0,
+        "msg": "Succeed",
+        "msgCode": 0,
+        "serviceNowTime": "2024-07-08 18:56:01"
+      }
+    },
+    {
+      "request": {
+        "url": "https://tirangaapi.com/api/webapi/GetNoaverageEmerdList",
+        "body": "{\"pageSize\":10,\"pageNo\":1,\"typeId\":1,\"language\":0,\"random\":\"93f5f98929fd46b78cc03e023eaad163\",\"signature\":\"32785315E4402D2BE5C4FB0A65CDA5D7\",\"timestamp\":1720445160}"
+      },
+      "response": {
+        "data": {
+          "list": [
+            {
+              "issueNumber": "20240708011136",
+              "number": "8",
+              "colour": "red",
+              "premium": "65478"
+            },
+            {
+              "issueNumber": "20240708011135",
+              "number": "3",
+              "colour": "green",
+              "premium": "33633"
+            },
+            {
+              "issueNumber": "20240708011134",
+              "number": "2",
+              "colour": "red",
+              "premium": "19342"
+            },
+            {
+              "issueNumber": "20240708011133",
+              "number": "8",
+              "colour": "red",
+              "premium": "96548"
+            },
+            {
+              "issueNumber": "20240708011132",
+              "number": "6",
+              "colour": "red",
+              "premium": "59046"
+            },
+            {
+              "issueNumber": "20240708011131",
+              "number": "8",
+              "colour": "red",
+              "premium": "65778"
+            },
+            {
+              "issueNumber": "20240708011130",
+              "number": "4",
+              "colour": "red",
+              "premium": "51434"
+            },
+            {
+              "issueNumber": "20240708011129",
+              "number": "2",
+              "colour": "red",
+              "premium": "16202"
+            },
+            {
+              "issueNumber": "20240708011128",
+              "number": "4",
+              "colour": "red",
+              "premium": "91524"
+            },
+            {
+              "issueNumber": "20240708011127",
+              "number": "2",
+              "colour": "red",
+              "premium": "55192"
+            }
+          ],
+          "pageNo": 1,
+          "totalPage": 1698,
+          "totalCount": 16976
+        },
+        "code": 0,
+        "msg": "Succeed",
+        "msgCode": 0,
+        "serviceNowTime": "2024-07-08 18:56:02"
+      }
+    }
+  ]
 ]
