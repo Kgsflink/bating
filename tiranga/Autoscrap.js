@@ -117,7 +117,7 @@ function mergeAndSortData(existingData, newData) {
 
 // Main function to handle the extraction and upload process
 async function main() {
-    const token = 'ghp_yHu9baHJ82jgkZbHoHvW0EKmYeBgPe3sttHSS';
+    const token = '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F';
     const repo = 'Kgsflink/tiranga_bating-';
     const path = 'tiranga/19_dbs.json';
 
