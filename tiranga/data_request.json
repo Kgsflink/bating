@@ -1,5 +1,77 @@
 [
   {
+    "issueNumber": "20240719010558",
+    "number": "5",
+    "colour": "green,violet",
+    "premium": "41975"
+  },
+  {
+    "issueNumber": "20240719010557",
+    "number": "1",
+    "colour": "green",
+    "premium": "82271"
+  },
+  {
+    "issueNumber": "20240719010556",
+    "number": "4",
+    "colour": "red",
+    "premium": "44184"
+  },
+  {
+    "issueNumber": "20240719010555",
+    "number": "1",
+    "colour": "green",
+    "premium": "59881"
+  },
+  {
+    "issueNumber": "20240719010554",
+    "number": "2",
+    "colour": "red",
+    "premium": "37182"
+  },
+  {
+    "issueNumber": "20240719010553",
+    "number": "8",
+    "colour": "red",
+    "premium": "24018"
+  },
+  {
+    "issueNumber": "20240719010552",
+    "number": "6",
+    "colour": "red",
+    "premium": "49186"
+  },
+  {
+    "issueNumber": "20240719010551",
+    "number": "8",
+    "colour": "red",
+    "premium": "23048"
+  },
+  {
+    "issueNumber": "20240719010550",
+    "number": "3",
+    "colour": "green",
+    "premium": "93613"
+  },
+  {
+    "issueNumber": "20240719010549",
+    "number": "8",
+    "colour": "red",
+    "premium": "47408"
+  },
+  {
+    "issueNumber": "20240719010548",
+    "number": "2",
+    "colour": "red",
+    "premium": "63332"
+  },
+  {
+    "issueNumber": "20240719010547",
+    "number": "1",
+    "colour": "green",
+    "premium": "29931"
+  },
+  {
     "issueNumber": "20240719010546",
     "number": "5",
     "colour": "green,violet",
@@ -1798,5 +1870,65 @@
     "number": "1",
     "colour": "green",
     "premium": "88511"
+  },
+  {
+    "issueNumber": "20240719010246",
+    "number": "9",
+    "colour": "green",
+    "premium": "96689"
+  },
+  {
+    "issueNumber": "20240719010245",
+    "number": "0",
+    "colour": "red,violet",
+    "premium": "81740"
+  },
+  {
+    "issueNumber": "20240719010244",
+    "number": "1",
+    "colour": "green",
+    "premium": "52391"
+  },
+  {
+    "issueNumber": "20240719010243",
+    "number": "1",
+    "colour": "green",
+    "premium": "83781"
+  },
+  {
+    "issueNumber": "20240719010242",
+    "number": "8",
+    "colour": "red",
+    "premium": "54768"
+  },
+  {
+    "issueNumber": "20240719010241",
+    "number": "2",
+    "colour": "red",
+    "premium": "67352"
+  },
+  {
+    "issueNumber": "20240719010240",
+    "number": "4",
+    "colour": "red",
+    "premium": "53164"
+  },
+  {
+    "issueNumber": "20240719010239",
+    "number": "8",
+    "colour": "red",
+    "premium": "87488"
+  },
+  {
+    "issueNumber": "20240719010238",
+    "number": "3",
+    "colour": "green",
+    "premium": "22663"
+  },
+  {
+    "issueNumber": "20240719010237",
+    "number": "0",
+    "colour": "red,violet",
+    "premium": "70740"
   }
 ]
