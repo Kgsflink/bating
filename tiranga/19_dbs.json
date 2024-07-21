@@ -1,5 +1,2022 @@
 [
   {
+    "round": 20240722010024,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240722010023,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240722010022,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240722010021,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240722010020,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240722010019,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240722010018,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240722010017,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240722010016,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240722010015,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721011374,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721011373,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721011372,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721011371,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721011370,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721011369,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721011368,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721011367,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721011366,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721011365,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721011364,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721011363,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721011362,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721011361,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721011360,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721011359,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721011358,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721011357,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721011356,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721011355,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721011274,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721011273,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721011272,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721011271,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721011270,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721011269,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721011268,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721011267,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721011266,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721011265,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721011034,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721011033,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721011032,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721011031,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721011030,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721011029,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721011028,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721011027,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721011026,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721011025,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010974,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010973,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010972,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010971,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010970,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010969,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010968,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010967,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010966,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010965,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010944,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010943,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010942,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010941,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010940,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010939,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010938,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010937,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010936,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010935,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010914,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010913,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010912,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010911,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010910,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010909,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010908,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010907,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010906,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010905,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010904,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010903,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010902,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010901,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010900,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010899,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010898,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010897,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010896,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010895,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010874,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010873,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010872,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010871,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010870,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010869,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010868,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010867,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010866,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010865,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010864,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010863,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010862,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010861,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010860,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010859,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010858,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010857,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010856,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010855,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010824,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010823,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010822,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010821,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010820,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010819,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010818,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010817,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010816,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010815,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010684,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010683,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010682,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010681,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010680,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010679,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010678,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010677,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010676,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010675,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010604,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010603,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010602,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010601,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010600,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010599,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010598,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010597,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010596,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010595,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010504,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010503,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010502,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010501,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010500,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010499,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010498,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010497,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010496,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010495,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010384,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010383,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010382,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010381,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010380,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010379,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010378,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010377,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010376,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010375,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010374,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010373,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010372,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010371,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010370,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010369,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010368,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010367,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010366,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010365,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010254,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010253,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010252,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010251,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010250,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010249,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010248,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010247,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010246,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010245,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010154,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010153,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010152,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010151,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010150,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010149,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010148,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010147,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010146,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010145,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010134,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010133,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010132,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010131,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010130,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010129,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010128,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010127,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010126,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010125,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010104,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010103,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010102,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010101,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010100,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010099,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010098,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010097,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010096,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010095,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010074,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010073,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010072,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010071,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010070,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010069,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010068,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010067,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010066,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010065,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010014,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010013,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010012,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010011,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010010,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010009,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010008,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010007,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240721010006,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010005,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010004,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010003,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240721010002,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240721010001,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011440,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011439,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011438,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011437,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011436,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011435,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011354,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011353,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011352,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011351,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720011350,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011349,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240720011348,
     "num": "8",
     "size": "Big",
@@ -661,6 +2678,89 @@
     ]
   },
   {
+    "round": 20240720011268,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720011267,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720011266,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011265,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011264,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011263,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011262,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011261,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011260,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011259,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
     "round": 20240720011258,
     "num": "2",
     "size": "Small",
@@ -736,6 +2836,39 @@
   },
   {
     "round": 20240720011249,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011248,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011247,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011246,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720011245,
     "num": "8",
     "size": "Big",
     "origins": [
@@ -1148,6 +3281,38 @@
     ]
   },
   {
+    "round": 20240720011188,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011187,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011186,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011185,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240720011178,
     "num": "4",
     "size": "Small",
@@ -1395,6 +3560,88 @@
     ]
   },
   {
+    "round": 20240720011144,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720011143,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011142,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011141,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720011140,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011139,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011138,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011137,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011136,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011135,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240720011128,
     "num": "5",
     "size": "Big",
@@ -1474,6 +3721,202 @@
     "size": "Small",
     "origins": [
       "green"
+    ]
+  },
+  {
+    "round": 20240720011118,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011117,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011116,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720011115,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011114,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011113,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720011112,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011111,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011110,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011109,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011108,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011107,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011106,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720011105,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011074,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011073,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011072,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011071,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011070,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011069,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011068,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720011067,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011066,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011065,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
     ]
   },
   {
@@ -1558,6 +4001,54 @@
     "size": "Small",
     "origins": [
       "green"
+    ]
+  },
+  {
+    "round": 20240720011004,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011003,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720011002,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011001,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720011000,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010999,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
     ]
   },
   {
@@ -2045,6 +4536,90 @@
     ]
   },
   {
+    "round": 20240720010914,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010913,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010912,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010911,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010910,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010909,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010908,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010907,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010906,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010905,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
     "round": 20240720010899,
     "num": "7",
     "size": "Big",
@@ -2201,6 +4776,47 @@
     "round": 20240720010880,
     "num": "2",
     "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010854,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010853,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010852,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010851,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010850,
+    "num": "8",
+    "size": "Big",
     "origins": [
       "red"
     ]
@@ -2451,6 +5067,46 @@
     ]
   },
   {
+    "round": 20240720010784,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010783,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010782,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010781,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010780,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240720010779,
     "num": "6",
     "size": "Big",
@@ -2614,6 +5270,49 @@
     "size": "Small",
     "origins": [
       "red"
+    ]
+  },
+  {
+    "round": 20240720010759,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010758,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010757,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010756,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010755,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
     ]
   },
   {
@@ -2937,6 +5636,89 @@
     ]
   },
   {
+    "round": 20240720010674,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010673,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010672,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010671,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010670,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010669,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010668,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010667,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010666,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010665,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
     "round": 20240720010629,
     "num": "8",
     "size": "Big",
@@ -3014,6 +5796,132 @@
     "size": "Big",
     "origins": [
       "red"
+    ]
+  },
+  {
+    "round": 20240720010619,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010618,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010617,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010616,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010615,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010564,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010563,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010562,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010561,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010560,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010559,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010558,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010557,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010556,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010555,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
     ]
   },
   {
@@ -3099,6 +6007,330 @@
     ]
   },
   {
+    "round": 20240720010494,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010493,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010492,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010491,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010490,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010489,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010488,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010487,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010486,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010485,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010444,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010443,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010442,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010441,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010440,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010439,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010438,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010437,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010436,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010435,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010404,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010403,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010402,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010401,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010400,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010399,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010398,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010397,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010396,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010395,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010334,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010333,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010332,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010331,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010330,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010329,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010328,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010327,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010326,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010325,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240720010318,
     "num": "3",
     "size": "Small",
@@ -3178,6 +6410,172 @@
     "origins": [
       "red",
       "violet"
+    ]
+  },
+  {
+    "round": 20240720010304,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010303,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010302,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010301,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010300,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010299,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010298,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010297,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010296,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010295,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010294,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010293,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010292,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010291,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010290,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010289,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010288,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010287,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010286,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010285,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
     ]
   },
   {
@@ -3424,6 +6822,88 @@
   },
   {
     "round": 20240720010229,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010224,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010223,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010222,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010221,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010220,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010219,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010218,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010217,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010216,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010215,
     "num": "5",
     "size": "Big",
     "origins": [
@@ -3686,6 +7166,48 @@
     ]
   },
   {
+    "round": 20240720010104,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010103,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010102,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010101,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010100,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240720010099,
     "num": "4",
     "size": "Small",
@@ -3854,6 +7376,130 @@
     ]
   },
   {
+    "round": 20240720010074,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010073,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010072,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010071,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010070,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010069,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010068,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010067,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010066,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010065,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010064,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010063,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010062,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010061,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240720010060,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240720010059,
     "num": "5",
     "size": "Big",
@@ -4019,6 +7665,329 @@
     ]
   },
   {
+    "round": 20240720010034,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010033,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010032,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010031,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010030,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010029,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010028,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010027,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010026,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010025,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240720010004,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010003,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010002,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240720010001,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011440,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011439,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011438,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719011437,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011436,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011435,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011434,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011433,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011432,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011431,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011430,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719011429,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011428,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719011427,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011426,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011425,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011364,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011363,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011362,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011361,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011360,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011359,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011358,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011357,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011356,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011355,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240719011328,
     "num": "5",
     "size": "Big",
@@ -4099,6 +8068,370 @@
     "size": "Big",
     "origins": [
       "red"
+    ]
+  },
+  {
+    "round": 20240719011318,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011317,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719011316,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011315,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011294,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011293,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011292,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011291,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011290,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011289,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011288,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719011287,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011286,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011285,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011264,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719011263,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011262,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011261,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011260,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719011259,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011258,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011257,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719011256,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011255,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011224,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719011223,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011222,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011221,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719011220,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011219,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719011218,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719011217,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011216,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011215,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011214,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011213,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719011212,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011211,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011210,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011209,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011208,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011207,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719011206,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011205,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
     ]
   },
   {
@@ -4261,6 +8594,46 @@
     "size": "Big",
     "origins": [
       "green"
+    ]
+  },
+  {
+    "round": 20240719011174,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011173,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011172,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011171,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011170,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
     ]
   },
   {
@@ -4751,6 +9124,169 @@
     ]
   },
   {
+    "round": 20240719011034,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011033,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011032,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011031,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011030,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719011029,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011028,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011027,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719011026,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011025,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011004,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011003,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011002,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719011001,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719011000,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010999,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010998,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010997,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010996,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010995,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
     "round": 20240719010968,
     "num": "6",
     "size": "Big",
@@ -4826,6 +9362,170 @@
   },
   {
     "round": 20240719010959,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010954,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719010953,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010952,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010951,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010950,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010949,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010948,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010947,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010946,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010945,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010944,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010943,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010942,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010941,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010940,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010939,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719010938,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719010937,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719010936,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010935,
     "num": "3",
     "size": "Small",
     "origins": [
@@ -4913,6 +9613,245 @@
     "size": "Big",
     "origins": [
       "red"
+    ]
+  },
+  {
+    "round": 20240719010918,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010917,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010916,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010915,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719010914,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010913,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010912,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719010911,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010910,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010909,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010908,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010907,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719010906,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010905,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010904,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010903,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010902,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010901,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010900,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010899,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010898,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719010897,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719010896,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010895,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719010894,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010893,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719010892,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010891,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010890,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
     ]
   },
   {
@@ -5252,6 +10191,38 @@
     ]
   },
   {
+    "round": 20240719010848,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010847,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010846,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010845,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240719010828,
     "num": "8",
     "size": "Big",
@@ -5330,6 +10301,48 @@
     "size": "Small",
     "origins": [
       "green"
+    ]
+  },
+  {
+    "round": 20240719010784,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010783,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010782,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719010781,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010780,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
     ]
   },
   {
@@ -5412,6 +10425,88 @@
     "origins": [
       "green",
       "violet"
+    ]
+  },
+  {
+    "round": 20240719010764,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010763,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010762,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010761,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010760,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719010759,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719010758,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010757,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010756,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010755,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
     ]
   },
   {
@@ -5568,6 +10663,55 @@
     "origins": [
       "green",
       "violet"
+    ]
+  },
+  {
+    "round": 20240719010714,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010713,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010712,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719010711,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010710,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010709,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
     ]
   },
   {
@@ -6129,6 +11273,47 @@
     ]
   },
   {
+    "round": 20240719010614,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010613,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010612,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010611,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719010610,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240719010609,
     "num": "8",
     "size": "Big",
@@ -6207,6 +11392,87 @@
     "size": "Small",
     "origins": [
       "red"
+    ]
+  },
+  {
+    "round": 20240719010594,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010593,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010592,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010591,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010590,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010589,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010588,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010587,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010586,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719010585,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
     ]
   },
   {
@@ -7897,6 +13163,14 @@
     ]
   },
   {
+    "round": 20240719010309,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240719010308,
     "num": "1",
     "size": "Small",
@@ -7974,6 +13248,78 @@
     "round": 20240719010299,
     "num": "7",
     "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010298,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010297,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010296,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010295,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010294,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010293,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010292,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010291,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010290,
+    "num": "1",
+    "size": "Small",
     "origins": [
       "green"
     ]
@@ -8713,6 +14059,39 @@
   {
     "round": 20240719010199,
     "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010198,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240719010197,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240719010196,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240719010195,
+    "num": "4",
     "size": "Small",
     "origins": [
       "red"
@@ -10535,6 +15914,89 @@
     ]
   },
   {
+    "round": 20240718011404,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240718011403,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718011402,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718011401,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240718011400,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718011399,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718011398,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718011397,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240718011396,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718011395,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240718011383,
     "num": "0",
     "size": "Small",
@@ -10786,6 +16248,48 @@
     ]
   },
   {
+    "round": 20240718011339,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240718011338,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240718011337,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718011336,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718011335,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240718011329,
     "num": "1",
     "size": "Small",
@@ -10947,6 +16451,47 @@
     ]
   },
   {
+    "round": 20240718011304,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718011303,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718011302,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718011301,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240718011300,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240718011299,
     "num": "1",
     "size": "Small",
@@ -11023,6 +16568,87 @@
     "round": 20240718011290,
     "num": "1",
     "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718011284,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718011283,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718011282,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718011281,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718011280,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718011279,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718011278,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718011277,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718011276,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240718011275,
+    "num": "7",
+    "size": "Big",
     "origins": [
       "green"
     ]
@@ -11858,6 +17484,138 @@
     ]
   },
   {
+    "round": 20240718011134,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240718011133,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718011132,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718011131,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718011130,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718011129,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718011128,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240718011127,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718011126,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718011125,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718011124,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718011123,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718011122,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240718011121,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718011120,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718011119,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
     "round": 20240718011118,
     "num": "4",
     "size": "Small",
@@ -12497,6 +18255,88 @@
     ]
   },
   {
+    "round": 20240718011004,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240718011003,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718011002,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718011001,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718011000,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240718010999,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718010998,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718010997,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718010996,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718010995,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240718010963,
     "num": "1",
     "size": "Small",
@@ -12603,6 +18443,14 @@
   {
     "round": 20240718010950,
     "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718010949,
+    "num": "9",
     "size": "Big",
     "origins": [
       "green"
@@ -16406,6 +22254,80 @@
     ]
   },
   {
+    "round": 20240718010484,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718010483,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240718010482,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718010481,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240718010480,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718010479,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718010478,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718010477,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240718010476,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240718010475,
     "num": "0",
     "size": "Small",
@@ -17381,6 +23303,22 @@
   },
   {
     "round": 20240718010356,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718010355,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240718010354,
     "num": "6",
     "size": "Big",
     "origins": [
@@ -20761,6 +26699,14 @@
     ]
   },
   {
+    "round": 20240717011374,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240717011373,
     "num": "8",
     "size": "Big",
@@ -22654,6 +28600,89 @@
     ]
   },
   {
+    "round": 20240717011074,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717011073,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717011072,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717011071,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717011070,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240717011069,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240717011068,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717011067,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717011066,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240717011065,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240717011058,
     "num": "5",
     "size": "Big",
@@ -23444,6 +29473,89 @@
     ]
   },
   {
+    "round": 20240717010924,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010923,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010922,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240717010921,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010920,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010919,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010918,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010917,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240717010916,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240717010915,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240717010913,
     "num": "1",
     "size": "Small",
@@ -23608,6 +29720,39 @@
     ]
   },
   {
+    "round": 20240717010893,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010892,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010891,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010890,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
     "round": 20240717010889,
     "num": "5",
     "size": "Big",
@@ -23685,6 +29830,47 @@
     "round": 20240717010880,
     "num": "1",
     "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010879,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010878,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010877,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010876,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240717010875,
+    "num": "7",
+    "size": "Big",
     "origins": [
       "green"
     ]
@@ -23768,6 +29954,14 @@
     "size": "Big",
     "origins": [
       "red"
+    ]
+  },
+  {
+    "round": 20240717010859,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
     ]
   },
   {
@@ -23972,6 +30166,89 @@
     "size": "Small",
     "origins": [
       "green"
+    ]
+  },
+  {
+    "round": 20240717010804,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010803,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010802,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010801,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010800,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010799,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240717010798,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010797,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240717010796,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240717010795,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
     ]
   },
   {
@@ -25193,6 +31470,48 @@
     "size": "Big",
     "origins": [
       "green"
+    ]
+  },
+  {
+    "round": 20240717010619,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010618,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010617,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240717010616,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010615,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
     ]
   },
   {
@@ -27507,6 +33826,46 @@
     ]
   },
   {
+    "round": 20240717010283,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010282,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010281,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010280,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010279,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240717010278,
     "num": "8",
     "size": "Big",
@@ -27622,6 +33981,50 @@
     "round": 20240717010264,
     "num": "8",
     "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010263,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240717010262,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240717010261,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240717010260,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240717010259,
+    "num": "4",
+    "size": "Small",
     "origins": [
       "red"
     ]
@@ -27985,6 +34388,78 @@
   },
   {
     "round": 20240717010214,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010213,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010212,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010211,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010210,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010209,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010208,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010207,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010206,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010205,
     "num": "7",
     "size": "Big",
     "origins": [
@@ -28688,6 +35163,81 @@
     ]
   },
   {
+    "round": 20240717010103,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010102,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010101,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010100,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010099,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240717010098,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010097,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240717010096,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010095,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
     "round": 20240717010093,
     "num": "5",
     "size": "Big",
@@ -29099,6 +35649,80 @@
     "round": 20240717010034,
     "num": "7",
     "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010033,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240717010032,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010031,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010030,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010029,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010028,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240717010027,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240717010026,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240717010025,
+    "num": "1",
+    "size": "Small",
     "origins": [
       "green"
     ]
@@ -29892,6 +36516,14 @@
     "size": "Small",
     "origins": [
       "green"
+    ]
+  },
+  {
+    "round": 20240716011344,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
     ]
   },
   {
@@ -30932,6 +37564,172 @@
     "round": 20240716011174,
     "num": "9",
     "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716011164,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716011163,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716011162,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716011161,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716011160,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716011159,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716011158,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716011157,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716011156,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716011155,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716011154,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716011153,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716011152,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716011151,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716011150,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716011149,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716011148,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716011147,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716011146,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716011145,
+    "num": "3",
+    "size": "Small",
     "origins": [
       "green"
     ]
@@ -32455,6 +39253,87 @@
     ]
   },
   {
+    "round": 20240716010914,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010913,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010912,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010911,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010910,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010909,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716010908,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010907,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010906,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010905,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240716010903,
     "num": "3",
     "size": "Small",
@@ -32735,6 +39614,89 @@
     "round": 20240716010864,
     "num": "4",
     "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010863,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010862,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010861,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716010860,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010859,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010858,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716010857,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010856,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010855,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716010844,
+    "num": "6",
+    "size": "Big",
     "origins": [
       "red"
     ]
@@ -34061,6 +41023,50 @@
     ]
   },
   {
+    "round": 20240716010648,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010647,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716010646,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716010645,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716010634,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
     "round": 20240716010633,
     "num": "9",
     "size": "Big",
@@ -34960,6 +41966,80 @@
     ]
   },
   {
+    "round": 20240716010503,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010502,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010501,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010500,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010499,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716010498,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716010497,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010496,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010495,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240716010493,
     "num": "7",
     "size": "Big",
@@ -35643,6 +42723,14 @@
     "size": "Big",
     "origins": [
       "red"
+    ]
+  },
+  {
+    "round": 20240716010394,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
     ]
   },
   {
@@ -36418,6 +43506,169 @@
     ]
   },
   {
+    "round": 20240716010243,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010242,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010241,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010240,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010239,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010238,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010237,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716010236,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010235,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010224,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716010223,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010222,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010221,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716010220,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010219,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010218,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010217,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010216,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010215,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010204,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240716010203,
     "num": "0",
     "size": "Small",
@@ -36499,6 +43750,88 @@
     "size": "Big",
     "origins": [
       "green"
+    ]
+  },
+  {
+    "round": 20240716010193,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716010192,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010191,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010190,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716010189,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010188,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010187,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010186,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010185,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010184,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
     ]
   },
   {
@@ -36668,6 +44001,47 @@
     ]
   },
   {
+    "round": 20240716010163,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010162,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010161,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010160,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010159,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
     "round": 20240716010158,
     "num": "0",
     "size": "Small",
@@ -36791,6 +44165,47 @@
     "size": "Small",
     "origins": [
       "red"
+    ]
+  },
+  {
+    "round": 20240716010143,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010142,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240716010141,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716010140,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010139,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
     ]
   },
   {
@@ -37201,6 +44616,14 @@
     ]
   },
   {
+    "round": 20240716010064,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240716010063,
     "num": "2",
     "size": "Small",
@@ -37359,6 +44782,88 @@
     "size": "Small",
     "origins": [
       "red"
+    ]
+  },
+  {
+    "round": 20240716010004,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010003,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240716010002,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240716010001,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715011440,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715011439,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240715011438,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715011437,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715011436,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715011435,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
     ]
   },
   {
@@ -38388,6 +45893,80 @@
     ]
   },
   {
+    "round": 20240715011233,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240715011232,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715011231,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715011230,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715011229,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240715011228,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715011227,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715011226,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715011225,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240715011218,
     "num": "2",
     "size": "Small",
@@ -38467,6 +46046,47 @@
     "size": "Big",
     "origins": [
       "green"
+    ]
+  },
+  {
+    "round": 20240715011208,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240715011207,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715011206,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715011205,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715011194,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
     ]
   },
   {
@@ -38715,6 +46335,14 @@
     ]
   },
   {
+    "round": 20240715011124,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240715011123,
     "num": "2",
     "size": "Small",
@@ -38792,6 +46420,140 @@
     "round": 20240715011114,
     "num": "3",
     "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715011104,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715011103,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715011102,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240715011101,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240715011100,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240715011099,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240715011098,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715011097,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240715011096,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240715011095,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715011094,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715011093,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715011092,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715011091,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715011090,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715011089,
+    "num": "9",
+    "size": "Big",
     "origins": [
       "green"
     ]
@@ -38922,6 +46684,14 @@
     ]
   },
   {
+    "round": 20240715011054,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240715011053,
     "num": "6",
     "size": "Big",
@@ -39004,6 +46774,81 @@
     ]
   },
   {
+    "round": 20240715011043,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240715011042,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715011041,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715011040,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715011039,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715011038,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715011037,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240715011036,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715011035,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
     "round": 20240715011023,
     "num": "4",
     "size": "Small",
@@ -39081,6 +46926,88 @@
     "round": 20240715011014,
     "num": "3",
     "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715010994,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715010993,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715010992,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240715010991,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715010990,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715010989,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715010988,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715010987,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240715010986,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715010985,
+    "num": "7",
+    "size": "Big",
     "origins": [
       "green"
     ]
@@ -40025,6 +47952,15 @@
     "size": "Big",
     "origins": [
       "green"
+    ]
+  },
+  {
+    "round": 20240715010814,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
     ]
   },
   {
@@ -41183,6 +49119,14 @@
     "size": "Big",
     "origins": [
       "green"
+    ]
+  },
+  {
+    "round": 20240715010664,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
     ]
   },
   {
@@ -43196,6 +51140,48 @@
     ]
   },
   {
+    "round": 20240715010323,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715010322,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240715010321,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715010320,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240715010319,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240715010318,
     "num": "8",
     "size": "Big",
@@ -44417,6 +52403,15 @@
     ]
   },
   {
+    "round": 20240715010134,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
     "round": 20240715010133,
     "num": "9",
     "size": "Big",
@@ -44860,6 +52855,80 @@
     "size": "Small",
     "origins": [
       "red"
+    ]
+  },
+  {
+    "round": 20240715010073,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240715010072,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715010071,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715010070,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715010069,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240715010068,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240715010067,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715010066,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240715010065,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
     ]
   },
   {
@@ -45844,6 +53913,96 @@
     "size": "Big",
     "origins": [
       "red"
+    ]
+  },
+  {
+    "round": 20240714011364,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714011363,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714011362,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240714011361,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714011360,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714011359,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240714011358,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714011357,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714011356,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714011355,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714011334,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
     ]
   },
   {
@@ -48399,6 +56558,14 @@
     ]
   },
   {
+    "round": 20240714010904,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240714010903,
     "num": "4",
     "size": "Small",
@@ -49676,6 +57843,47 @@
     ]
   },
   {
+    "round": 20240714010698,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010697,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010696,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714010695,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240714010674,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240714010673,
     "num": "9",
     "size": "Big",
@@ -49834,6 +58042,95 @@
     "round": 20240714010644,
     "num": "1",
     "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010624,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010623,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714010622,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010621,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010620,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010619,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714010618,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010617,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240714010616,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010615,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714010614,
+    "num": "7",
+    "size": "Big",
     "origins": [
       "green"
     ]
@@ -50413,6 +58710,171 @@
     ]
   },
   {
+    "round": 20240714010524,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010523,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010522,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240714010521,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010520,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010519,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010518,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010517,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240714010516,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714010515,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240714010514,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240714010513,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010512,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010511,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010510,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714010509,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240714010508,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010507,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010506,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714010505,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240714010493,
     "num": "5",
     "size": "Big",
@@ -50536,6 +58998,56 @@
     "size": "Big",
     "origins": [
       "green"
+    ]
+  },
+  {
+    "round": 20240714010464,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714010463,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010462,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240714010461,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714010460,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240714010459,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
     ]
   },
   {
@@ -51889,6 +60401,86 @@
     ]
   },
   {
+    "round": 20240714010163,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714010162,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714010161,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714010160,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714010159,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714010158,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714010157,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714010156,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714010155,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714010154,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240714010153,
     "num": "4",
     "size": "Small",
@@ -52582,6 +61174,47 @@
     ]
   },
   {
+    "round": 20240714010053,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010052,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240714010051,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240714010050,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240714010049,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240714010048,
     "num": "3",
     "size": "Small",
@@ -52740,6 +61373,81 @@
     "round": 20240713011434,
     "num": "1",
     "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713011433,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713011432,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240713011431,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240713011430,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240713011429,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713011428,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713011427,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713011426,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713011425,
+    "num": "9",
+    "size": "Big",
     "origins": [
       "green"
     ]
@@ -55292,6 +64000,55 @@
     ]
   },
   {
+    "round": 20240713011004,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240713011003,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713011002,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713011001,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713011000,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010999,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240713010998,
     "num": "2",
     "size": "Small",
@@ -55457,6 +64214,91 @@
     "size": "Small",
     "origins": [
       "green"
+    ]
+  },
+  {
+    "round": 20240713010973,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010972,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010971,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240713010970,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010969,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240713010968,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240713010967,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713010966,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240713010965,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010964,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
     ]
   },
   {
@@ -56113,6 +64955,82 @@
     "size": "Big",
     "origins": [
       "green"
+    ]
+  },
+  {
+    "round": 20240713010863,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010862,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713010861,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713010860,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713010859,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240713010858,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240713010857,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240713010856,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240713010855,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
     ]
   },
   {
@@ -56931,6 +65849,39 @@
     "round": 20240713010689,
     "num": "7",
     "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010688,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010687,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240713010686,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713010685,
+    "num": "1",
+    "size": "Small",
     "origins": [
       "green"
     ]
@@ -57846,6 +66797,38 @@
     ]
   },
   {
+    "round": 20240713010478,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713010477,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010476,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010475,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240713010468,
     "num": "2",
     "size": "Small",
@@ -58214,6 +67197,14 @@
     "origins": [
       "green",
       "violet"
+    ]
+  },
+  {
+    "round": 20240713010384,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
     ]
   },
   {
@@ -58628,6 +67619,79 @@
     ]
   },
   {
+    "round": 20240713010333,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713010332,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713010331,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713010330,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713010329,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713010328,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713010327,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240713010326,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713010325,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240713010323,
     "num": "7",
     "size": "Big",
@@ -58913,6 +67977,46 @@
     "round": 20240713010284,
     "num": "8",
     "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713010283,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713010282,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010281,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713010280,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010279,
+    "num": "4",
+    "size": "Small",
     "origins": [
       "red"
     ]
@@ -59239,6 +68343,38 @@
     "round": 20240713010239,
     "num": "1",
     "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010238,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713010237,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010236,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010235,
+    "num": "9",
+    "size": "Big",
     "origins": [
       "green"
     ]
@@ -59984,6 +69120,80 @@
     "size": "Big",
     "origins": [
       "red"
+    ]
+  },
+  {
+    "round": 20240713010093,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240713010092,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010091,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713010090,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240713010089,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010088,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010087,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010086,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240713010085,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
     ]
   },
   {
@@ -60768,6 +69978,89 @@
     "size": "Big",
     "origins": [
       "red"
+    ]
+  },
+  {
+    "round": 20240712011284,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712011283,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240712011282,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240712011281,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712011280,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712011279,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712011278,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240712011277,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712011276,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712011275,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
     ]
   },
   {
@@ -61674,6 +70967,38 @@
     ]
   },
   {
+    "round": 20240712011128,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712011127,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712011126,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712011125,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240712011103,
     "num": "2",
     "size": "Small",
@@ -62250,6 +71575,14 @@
     "size": "Small",
     "origins": [
       "green"
+    ]
+  },
+  {
+    "round": 20240712011014,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
     ]
   },
   {
@@ -63285,6 +72618,39 @@
     ]
   },
   {
+    "round": 20240712010788,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010787,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712010786,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240712010785,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240712010768,
     "num": "4",
     "size": "Small",
@@ -63568,6 +72934,94 @@
     "round": 20240712010734,
     "num": "1",
     "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010714,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010713,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010712,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010711,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712010710,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010709,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010708,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712010707,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712010706,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010705,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712010684,
+    "num": "9",
+    "size": "Big",
     "origins": [
       "green"
     ]
@@ -63901,6 +73355,88 @@
     ]
   },
   {
+    "round": 20240712010534,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010533,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712010532,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712010531,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240712010530,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010529,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712010528,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712010527,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010526,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010525,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
     "round": 20240712010523,
     "num": "8",
     "size": "Big",
@@ -64062,6 +73598,46 @@
     "origins": [
       "red",
       "violet"
+    ]
+  },
+  {
+    "round": 20240712010468,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712010467,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010466,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712010465,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712010454,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
     ]
   },
   {
@@ -64306,6 +73882,38 @@
   {
     "round": 20240712010349,
     "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010348,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712010347,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010346,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712010345,
+    "num": "1",
     "size": "Small",
     "origins": [
       "green"
@@ -64679,6 +74287,41 @@
     "size": "Big",
     "origins": [
       "green"
+    ]
+  },
+  {
+    "round": 20240712010288,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712010287,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240712010286,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240712010285,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
     ]
   },
   {
@@ -65089,6 +74732,78 @@
   {
     "round": 20240712010134,
     "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010133,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010132,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010131,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010130,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712010129,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712010128,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712010127,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240712010126,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240712010125,
+    "num": "7",
     "size": "Big",
     "origins": [
       "green"
@@ -65920,6 +75635,87 @@
     ]
   },
   {
+    "round": 20240711011344,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711011343,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711011342,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711011341,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711011340,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711011339,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711011338,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711011337,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711011336,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711011335,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240711011333,
     "num": "6",
     "size": "Big",
@@ -66292,6 +76088,121 @@
     ]
   },
   {
+    "round": 20240711011218,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711011217,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711011216,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711011215,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711011214,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711011213,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711011212,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711011211,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711011210,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711011209,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711011208,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711011207,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711011206,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711011205,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
     "round": 20240711011198,
     "num": "2",
     "size": "Small",
@@ -66537,6 +76448,38 @@
     ]
   },
   {
+    "round": 20240711011168,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711011167,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711011166,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711011165,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240711011138,
     "num": "1",
     "size": "Small",
@@ -66736,6 +76679,39 @@
     "size": "Small",
     "origins": [
       "green"
+    ]
+  },
+  {
+    "round": 20240711011108,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711011107,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711011106,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711011105,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
     ]
   },
   {
@@ -67107,6 +77083,89 @@
     ]
   },
   {
+    "round": 20240711010924,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010923,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010922,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010921,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010920,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010919,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010918,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010917,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010916,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010915,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
     "round": 20240711010913,
     "num": "1",
     "size": "Small",
@@ -67186,6 +77245,162 @@
     "origins": [
       "red",
       "violet"
+    ]
+  },
+  {
+    "round": 20240711010903,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010902,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010901,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010900,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010899,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010898,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010897,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010896,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010895,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010884,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010883,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010882,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010881,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010880,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010879,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010878,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010877,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010876,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010875,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
     ]
   },
   {
@@ -67519,6 +77734,171 @@
     ]
   },
   {
+    "round": 20240711010784,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010783,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010782,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010781,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010780,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010779,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010778,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010777,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010776,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010775,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010714,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010713,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010712,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010711,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010710,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010709,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010708,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010707,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010706,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010705,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
     "round": 20240711010693,
     "num": "5",
     "size": "Big",
@@ -67678,6 +78058,82 @@
     "round": 20240711010674,
     "num": "8",
     "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010673,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010672,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010671,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010670,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010669,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010668,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010667,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010666,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010665,
+    "num": "4",
+    "size": "Small",
     "origins": [
       "red"
     ]
@@ -68457,6 +78913,332 @@
     "size": "Small",
     "origins": [
       "red"
+    ]
+  },
+  {
+    "round": 20240711010543,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010542,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010541,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010540,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010539,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010538,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010537,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010536,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010535,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010514,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010513,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010512,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010511,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010510,
+    "num": "7",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010509,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010508,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010507,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010506,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010505,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010494,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010493,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010492,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010491,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010490,
+    "num": "8",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010489,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010488,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010487,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010486,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010485,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010484,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010483,
+    "num": "2",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010482,
+    "num": "6",
+    "size": "Big",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010481,
+    "num": "3",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010480,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010479,
+    "num": "4",
+    "size": "Small",
+    "origins": [
+      "red"
+    ]
+  },
+  {
+    "round": 20240711010478,
+    "num": "9",
+    "size": "Big",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010477,
+    "num": "5",
+    "size": "Big",
+    "origins": [
+      "green",
+      "violet"
+    ]
+  },
+  {
+    "round": 20240711010476,
+    "num": "1",
+    "size": "Small",
+    "origins": [
+      "green"
+    ]
+  },
+  {
+    "round": 20240711010475,
+    "num": "0",
+    "size": "Small",
+    "origins": [
+      "red",
+      "violet"
     ]
   },
   {
