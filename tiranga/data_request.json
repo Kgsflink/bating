@@ -1380,66 +1380,6 @@
     "premium": "34868"
   },
   {
-    "issueNumber": "20240722010002",
-    "number": "1",
-    "colour": "green",
-    "premium": "56891"
-  },
-  {
-    "issueNumber": "20240722010001",
-    "number": "9",
-    "colour": "green",
-    "premium": "57579"
-  },
-  {
-    "issueNumber": "20240721011440",
-    "number": "2",
-    "colour": "red",
-    "premium": "39242"
-  },
-  {
-    "issueNumber": "20240721011439",
-    "number": "5",
-    "colour": "green,violet",
-    "premium": "69705"
-  },
-  {
-    "issueNumber": "20240721011438",
-    "number": "9",
-    "colour": "green",
-    "premium": "71999"
-  },
-  {
-    "issueNumber": "20240721011437",
-    "number": "7",
-    "colour": "green",
-    "premium": "73857"
-  },
-  {
-    "issueNumber": "20240721011436",
-    "number": "9",
-    "colour": "green",
-    "premium": "43339"
-  },
-  {
-    "issueNumber": "20240721011435",
-    "number": "9",
-    "colour": "green",
-    "premium": "49009"
-  },
-  {
-    "issueNumber": "20240721011434",
-    "number": "7",
-    "colour": "green",
-    "premium": "72047"
-  },
-  {
-    "issueNumber": "20240721011433",
-    "number": "8",
-    "colour": "red",
-    "premium": "34868"
-  },
-  {
     "issueNumber": "20240721011432",
     "number": "0",
     "colour": "red,violet",
@@ -5998,5 +5938,59 @@
     "number": "0",
     "colour": "red,violet",
     "premium": "20230"
+  },
+  {
+    "issueNumber": "20240722010011",
+    "number": "4",
+    "colour": "red",
+    "premium": "64544"
+  },
+  {
+    "issueNumber": "20240722010010",
+    "number": "7",
+    "colour": "green",
+    "premium": "29327"
+  },
+  {
+    "issueNumber": "20240722010009",
+    "number": "0",
+    "colour": "red,violet",
+    "premium": "80180"
+  },
+  {
+    "issueNumber": "20240722010008",
+    "number": "9",
+    "colour": "green",
+    "premium": "50699"
+  },
+  {
+    "issueNumber": "20240722010007",
+    "number": "4",
+    "colour": "red",
+    "premium": "69854"
+  },
+  {
+    "issueNumber": "20240722010006",
+    "number": "7",
+    "colour": "green",
+    "premium": "79797"
+  },
+  {
+    "issueNumber": "20240722010005",
+    "number": "0",
+    "colour": "red,violet",
+    "premium": "26010"
+  },
+  {
+    "issueNumber": "20240722010004",
+    "number": "5",
+    "colour": "green,violet",
+    "premium": "79715"
+  },
+  {
+    "issueNumber": "20240722010003",
+    "number": "5",
+    "colour": "green,violet",
+    "premium": "69785"
   }
 ]
